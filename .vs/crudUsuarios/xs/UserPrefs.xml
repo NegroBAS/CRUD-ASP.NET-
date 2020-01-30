@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{903F8621-3AD6-4CA2-889E-4F624BEFE02A}|Default">
+  <MonoDevelop.Ide.ItemProperties.crudUsuarios PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="crudUsuarios/Views/Home/Delete.cshtml">
+    <Files>
+      <File FileName="crudUsuarios/Controllers/HomeController.cs" Line="111" Column="10" />
+      <File FileName="crudUsuarios/Views/Home/Delete.cshtml" Line="49" Column="7" />
+      <File FileName="crudUsuarios/Views/Home/Edit.cshtml" Line="1" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="crudUsuarios" expanded="True">
+            <Node name="crudUsuarios" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Delete.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
